@@ -1,0 +1,28 @@
+name: cates
+favicon: null
+layout_spectrum: 0.32696137484163046
+typography_spectrum: 0.9996917105745524
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.3125103674829006
+  lightness: 0.6500364767853171
+  saturation: 0.026168102165684104
+  rhythmicContrast: 0.7276065293699503
+purpose: []
