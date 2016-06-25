@@ -1,28 +1,40 @@
-name: cates
 favicon: null
-layout_spectrum: 0.2048
-typography_spectrum: 0.77306
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: cates
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
+  saturation: 0
+  brandStrength: 0.3125103674829006
+  rhythmicContrast: 0.75
   brandColors:
     - '#3a65a9'
     - '#dcdbd9'
     - '#6085b2'
     - '#94a9c8'
     - '#394e5f'
-  brandStrength: 0.3125103674829006
   lightness: 0.25
-  saturation: 0
-  rhythmicContrast: 0.75
-purpose: []
+typography_spectrum: 0.77306
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.893617
+analytics:
+  twitter: null
+  google: null
+  facebook: null
